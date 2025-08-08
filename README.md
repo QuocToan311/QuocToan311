@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Xin chào, mình là Toàn!
+💻 **Developer**
+🌱 Hiện tại mình đang học & xây dựng các dự án thực tế.
 
-<!--
-**QuocToan311/QuocToan311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Kỹ năng chính
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📌 Dự án nổi bật
+
+
+---
+
+📫 Liên hệ: [Email](duongquoctoan3101@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/d%C6%B0%C6%A1ng-qu%E1%BB%91c-to%C3%A0n-0999b1249/)

@@ -1,75 +1,83 @@
-# 👋 Xin chào, mình là Toàn!
-💻 **Developer**
-🌱 Hiện tại mình đang học & xây dựng phát triển các dự án thực tế.
+# Hi, I'm Quoc Toan 👋
+
+### Fullstack Developer Intern
+
+I'm an Information Technology student passionate about building practical web applications and software products.
+
+I enjoy working across frontend and backend development, designing databases, building RESTful APIs, and creating user-friendly interfaces.
+
+## Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+
+**Backend**
+- Java, Spring Boot
+- Node.js
+- RESTful API
+
+**Database**
+- MySQL, SQL Server, MongoDB
+
+**Tools**
+- Git, GitHub
+- Maven, Gradle
+- Docker, Linux
+
+## Featured Projects
+
+### Tiệm Hoa Nhà Tớ – Flower E-commerce Website
+
+A flower e-commerce platform designed to provide customers with a convenient and personalized online shopping experience.
+
+**Key Features**
+- User authentication and account management.
+- Flower catalog and product management.
+- Shopping cart and order management.
+- Admin dashboard.
+- Online payment integration.
+- Responsive user interface.
+
+**Technologies:** Java, JSP, Servlet, MySQL, HTML, CSS, JavaScript.
+
+🔗 [Source Code](https://github.com/QuocToan311/TiemHoanhato)
 
 ---
 
-## 🚀 Kỹ năng chính
-1. Java Core & OOP
-- OOP: encapsulation, inheritance, polymorphism, abstraction
-- Thiết kế class, tách module
-- Refactor code theo hướng object-oriented
-- Collections, xử lý dữ liệu
+### 📰 VNEWS 24H – Digital News Platform
 
-2. Java Desktop Development
-- Java Swing
-- UI desktop
-- Event handling
-- Grid layout
-- Media UI
-- Video library interface
-- JavaFX
+A modern digital news platform that aggregates news from multiple Vietnamese publishers through RSS feeds, processes XML data, and provides an enhanced reading experience.
 
-3. Database & SQL
-- SQL Server
-- Thiết kế schema
-- Quan hệ dữ liệu
-- Academic management system
-- Query dữ liệu
-- Logic hệ quản trị CSDL
+**Project Highlights**
+- Multi-source RSS integration (VnExpress, Tuổi Trẻ, Thanh Niên, Dân Trí).
+- XML parsing and real-time news aggregation.
+- Automated article content extraction.
+- In-memory caching with TTL.
+- Dynamic pagination and category filtering.
+- Live search and offline bookmarks.
+- Dark / Light theme.
+- Vietnamese text-to-speech using Web Speech API.
 
-4. Web Fullstack Development
+**Technologies:** 
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Node.js
+- Data Processing: RSS, XML
+- Browser APIs: Web Speech API, LocalStorage
 
-- Frontend
-React
-TailwindCSS
-Component architecture
-UI/UX redesign
-Responsive layouts
-State management cơ bản
-- Backend
-Node.js
-Express
-MongoDB
-JWT
-Socket.IO
-- Realtime
-realtime messaging
-websocket logic
-authentication flow
-
-5. UI/UX & Product Thinking
-
-6. AI Integration & Prompt Engineering
-- chia task cho AI
-- điều hướng AI theo workflow
-- dùng AI như productivity tool
-
-7. Android Development
-
-8. System Thinking & Software Architecture
-
-- rà soát hệ thống tổng thể
-- kiểm tra flow
-- audit admin
-- kiểm thử chức năng
-- suy nghĩ deployment thực tế
+🔗 [Source Code](https://github.com/QuocToan311/Web_bao_tin_tuc)
 
 ---
 
-## 📌 Dự án nổi bật
+## Currently Learning
 
+- Spring Boot
+- React
+- Software Architecture
+- Docker & CI/CD
 
----
+## Contact
 
-📫 Liên hệ: [Email](duongquoctoan3101@gmail.com) | [LinkedIn]((https://www.linkedin.com/in/d%C6%B0%C6%A1ng-qu%E1%BB%91c-to%C3%A0n-0999b1249/)https://www.linkedin.com/in/d%C6%B0%C6%A1ng-qu%E1%BB%91c-to%C3%A0n-0999b1249/)
+- GitHub: https://github.com/QuocToan311
+
+Thanks for visiting my profile!
